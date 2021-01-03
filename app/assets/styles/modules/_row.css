@@ -1,5 +1,6 @@
 .row {
 
+<<<<<<< HEAD
   @mixin clearfix;
 
   &--t-padding {
@@ -121,4 +122,28 @@
 
   }
 
+=======
+    &--gutters {
+        margin-right: -65px;
+    }
+
+    &--gutters > div {
+        padding-right: 65px;
+    }
+
+    @mixin clearfix{}
+
+    @mixin atMedium {
+        &__medium-4 {
+            float: left;
+            width: 33.33%;
+        }
+
+        &__medium-8 {
+            float: left;
+            width: 66.66%;
+        }
+    }
+
+>>>>>>> f1173e7b059d59d592ab4ddb1b2de536e63f89c7
 }

@@ -8,6 +8,7 @@
 @import "modules/_page-section";
 @import "modules/_headline";
 @import "modules/_row";
+<<<<<<< HEAD
 @import "modules/_generic-content-container";
 @import "modules/_section-title";
 @import "modules/_feature-item";
@@ -19,3 +20,5 @@
 @import "modules/_modal";
 @import "modules/_social-icons";
 @import "modules/_client-area";
+=======
+>>>>>>> f1173e7b059d59d592ab4ddb1b2de536e63f89c7
